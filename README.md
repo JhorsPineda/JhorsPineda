@@ -77,7 +77,7 @@
 
 
 
-<img align="right" height="350" src="https://storage.googleapis.com/creatorspace-public/users%2Fcli7syt890012si01ecm1xylx%2FqhUXBqj5pUd02Thd-b8bdf3114226925.603718a0e982d.gif"  />
+<img align="right" height="320" src="https://storage.googleapis.com/creatorspace-public/users%2Fcli7syt890012si01ecm1xylx%2FqhUXBqj5pUd02Thd-b8bdf3114226925.603718a0e982d.gif"  />
 
 ###
 
