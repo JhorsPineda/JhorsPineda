@@ -82,3 +82,16 @@
   <img src="https://streak-stats.demolab.com?user=JhorsPineda&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 
 </div>
+
+
+<img align="right" height="400" src="https://storage.googleapis.com/creatorspace-public/users%2Fcli7syt890012si01ecm1xylx%2FqhUXBqj5pUd02Thd-b8bdf3114226925.603718a0e982d.gif"  />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/22gckqpefza7ypdk54zlgafvy">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22gckqpefza7ypdk54zlgafvy&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
