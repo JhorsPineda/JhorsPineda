@@ -81,10 +81,12 @@
 
 ###
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <a href="https://open.spotify.com/user/22gckqpefza7ypdk54zlgafvy">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=22gckqpefza7ypdk54zlgafvy&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
 ###
+
+
