@@ -78,10 +78,10 @@
   <a href="https://open.spotify.com/user/22gckqpefza7ypdk54zlgafvy">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=22gckqpefza7ypdk54zlgafvy&count=4&unique=true" alt="Spotify recently played"  />
   </a>
-</div>
 
-<div align="center">
+  <div align="center">
   <img src="https://streak-stats.demolab.com?user=JhorsPineda&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 </div>
 
 ###
