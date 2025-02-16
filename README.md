@@ -46,6 +46,24 @@
   <img src="https://skillicons.dev/icons?i=pr" height="50" alt="adobepremierepro logo"  />
 </div>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/jorgemariopineda/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@JhorsP" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://instagram.com/sakkyp5" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.twitch.tv/jhors_pineda" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
+  </a>
+  <a href="https://www.paypal.com/paypalme/Jhors4" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
+  </a>
+</div>
+
 ###
 
 <p align="left">🌟 What do I currently do?<br>💻 I work as IT Support at Meaning Group while developing personal projects and keep improving my skills in React, Next.js, JavaScript and Tailwind CSS.</p>
