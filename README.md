@@ -1,7 +1,5 @@
 <p align="left">👋 Hi, I'm Jhors<br>🚀 Developer in constant learning passionate about technology, music and creating unique digital experiences.</p>
 
-###
-
 <br clear="both">
 
 <div align="center">
