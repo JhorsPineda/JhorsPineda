@@ -61,7 +61,7 @@
   <a href="https://www.youtube.com/@JhorsP" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="instagram.com/sakkyp5" target="_blank">
+  <a href="https://instagram.com/sakkyp5" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="https://www.twitch.tv/jhors_pineda" target="_blank">
@@ -74,15 +74,10 @@
 
 ###
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <a href="https://open.spotify.com/user/22gckqpefza7ypdk54zlgafvy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22gckqpefza7ypdk54zlgafvy&count=4&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22gckqpefza7ypdk54zlgafvy&count=4&unique=true" alt="Spotify recently played" />
   </a>
+  
+  <img src="https://streak-stats.demolab.com?user=JhorsPineda&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=JhorsPineda&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
